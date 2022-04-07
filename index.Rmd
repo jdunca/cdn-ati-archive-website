@@ -1,7 +1,7 @@
 ---
 title: "🇨🇦 Canadian ATI Archive"
 output: 
-  html_document:
+  html_fragment:
     toc: FALSE
 ---
 
