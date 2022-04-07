@@ -5,7 +5,7 @@ output:
     toc: FALSE
 ---
 
-### Accessing government information can be tricky. We want to make it easier!
+### Accessing government information can be tricky. We want to make it easier.
 
 <font size = 4> Every year journalists, academics, lawyers, and members of the public file tens of thousands of requests for information from the Canadian Government. But previously filed Access to Information (ATI) requests aren't made public by default. That's why we are working to develop the Canadian ATI Archive!
 
