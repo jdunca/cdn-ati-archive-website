@@ -15,9 +15,9 @@ We published hundreds of previously filed ATI requests that go back as far as 20
 
 Right now our collection features files from the [Department of Justice](https://journaliststudio.google.com/pinpoint/search?collection=545b02bfc4d44314&utm_source=caij), the [Canada Border Services Agency](https://journaliststudio.google.com/pinpoint/search?collection=a2fd1411cad7fb36&utm_source=caij), and the [Canada Security Intelligence Service](https://journaliststudio.google.com/pinpoint/search?collection=b2c31ff7297a47f7&utm_source=caij). We will continue expanding the number of documents available in the coming months.
 
-It's often helpful to see the wording of the original request. Unfortunately, completed summaries are only kept in the public dataset for two years. Our mirror of the public dataset updates weekly and features summaries going back to 2017. You can [download](https://github.com/lchski/gc-ati-summaries-data/blob/main/ati-summaries.csv) the whole dataset or [search](https://gc-ati-summaries-data.labs.lucascherkewski.com/summaries/summaries) through it using this SQL query builder. \font
+It's often helpful to see the wording of the original request. Unfortunately, completed summaries are only kept in the public dataset for two years. Our mirror of the public dataset updates weekly and features summaries going back to 2017. You can [download](https://github.com/lchski/gc-ati-summaries-data/blob/main/ati-summaries.csv) the whole dataset or [search](https://gc-ati-summaries-data.labs.lucascherkewski.com/summaries/summaries) through it using this SQL query builder.
 
-# Quicklinks to ATI resources:
+### Quicklinks to ATI resources:
  - Public ATI collections on Google [Pinpoint](https://journaliststudio.google.com/pinpoint/collections&utm_source=caij) maintained by Jamie Duncan & Alex Luscombe from the University of Winnipeg Centre for Access to Information and Justice
  - Previously completed requests [data set mirror](https://github.com/lchski/gc-ati-summaries-data) developed by Lucas Cherkewsky
  - Form auto-fillers developed by Tom Cardoso: [Piggyback](https://tomcardoso.github.io/piggyback/) for previously completed requests and [ATIPster](https://tomcardoso.github.io/atipster/) for new requests.
