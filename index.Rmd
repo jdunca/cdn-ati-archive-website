@@ -7,7 +7,7 @@ output:
 
 ### Accessing government information can be tricky. We want to make it easier.
 
-<font size = 4> Every year, journalists, academics, lawyers, and members of the public file tens of thousands of requests for information from the Canadian Government. But previously filed Access to Information (ATI) requests aren't made public by default. That's why we are working to develop the Canadian ATI Archive.
+<font size = 4> Journalists, academics, lawyers, and members of the public file tens of thousands of requests for information from the Canadian Government every year. But previously filed Access to Information (ATI) requests aren't made public by default. That's why we are working to develop the Canadian ATI Archive.
 
 Currently, you can find summaries of previously completed requests on Canada's [Open Government website](https://open.canada.ca/en/search/ati). If you find one you want, you can fill out a web form requesting access. If you want more than one, you have to complete the form multiple times. Usually, information is released as a PDF image that doesn't support text searching or copy and paste functions.
 
